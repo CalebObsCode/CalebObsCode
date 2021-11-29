@@ -97,4 +97,4 @@ I'm a Computer Science student at Wayne State University.
 </table>
 
 ## 📈&nbsp; GitHub Stats
-[![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalebObsCode&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/CalebObsCode/github-readme-stats)
+[![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalebObsCode&count_private=true&show_icons=true&theme==tokyonight)](https://github.com/CalebObsCode/github-readme-stats)
